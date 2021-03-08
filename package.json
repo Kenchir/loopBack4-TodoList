@@ -60,6 +60,13 @@
     "!*/__tests__"
   ],
   "dependencies": {
+        "@loopback/build": "^6.2.9",
+    "source-map-support": "^0.5.19",
+    "@loopback/testlab": "^3.2.12",
+    "@types/node": "^10.17.51",
+    "@loopback/eslint-config": "^10.0.5",
+    "eslint": "^7.18.0",
+    "typescript": "~4.1.3",
     "@loopback/boot": "^3.2.1",
     "@loopback/core": "^2.14.1",
     "@loopback/repository": "^3.4.1",
