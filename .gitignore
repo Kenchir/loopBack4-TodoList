@@ -55,6 +55,8 @@ dist/
 # Output of 'npm pack'
 *.tgz
 
+.vscode
+
 # Yarn Integrity file
 .yarn-integrity
 
